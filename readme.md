@@ -4,7 +4,7 @@
 
 就是这本书。
 
-![tupian](\img\1.jpg)
+![tupian](https://github.com/Brandon-yang/datastruct/blob/master/img/1.jpg)
 
 ## 注意点
 
